@@ -1,18 +1,18 @@
 {
-  "name": "Frozen Tagger Bot",
+  "name": "Turbo Tagger Bot",
   "logo":"https://telegra.ph/file/133b9125da464d1db6fca.jpg",
-  "description": "Frozen Tagger ÜCRETSİZ ŞEKILDE GRUBUNUZDA ÜYELERI ETIKETLEYE BILIR.",
+  "description": "Turbo Tagger Bot qrupunuzdakı bütün userleri tag edə bilər.",
   "env": {
     "TOKEN": {
-      "description": "@botfather Vasitesi ile Ala Bilersen(Gerekli)",
+      "description": "@botfather Vasitəsi ilə Ala Bilərsən",
       "value": ""
     },
     "APP_ID": {
-      "description": " my.telegram.org vasitesi ile ala bilersen (Gerekli)",
+      "description": " my.telegram.org Vasitəsi ilə Ala Bilərsən",
       "value": ""
     },
     "API_HASH": {
-      "description": "my.telegram.org Vasitesi ile ala bilersen (Gerekli)",
+      "description": "my.telegram.org Vasitəsi ilə Ala Bilərsən",
       "value": ""
     }
   },
